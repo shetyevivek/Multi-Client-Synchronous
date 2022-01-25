@@ -1,0 +1,19 @@
+***Operating System***
+Windows 10 Enterprise (64-bit) with 4 GB RAM and Intel Celeron Processor
+
+
+
+
+***Tools Used***
+1. Java SE Development Kit 8 Update 241.
+2. MyServer - Apache Netbeans IDE 11.2
+
+
+
+
+***Steps on how to run the code***
+1. Download & Install the above tools.
+2. Copy and paste the "NetBeansProjects" folder to "C:\Users\(Your PC Username)\Documents".
+3. Open Netbeans and click on Start --> Open Project --> Browse the above directory and open MyClient and MyServer both files.
+4. Once they are loaded, run the Server file first by right clicking on "MyServer --> run".
+5. Then same way run the client file and input username. Then repeat step 5 for the desired number of times.
